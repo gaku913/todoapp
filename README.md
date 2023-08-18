@@ -1,24 +1,11 @@
-# README
+# ToDo アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 説明
 
-Things you may want to cover:
+デプロイのテスト用に用意したToDoアプリです
 
-* Ruby version
+## 推奨されるシステム環境
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ubuntu 22.04
+* Ruby 2.6.10
+* PostgreSQL 11.2
